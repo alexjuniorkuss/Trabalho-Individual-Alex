@@ -15,7 +15,12 @@ Crie um texto em formato de artigo abordando os seguintes Itens:
 Método é uma função onde você pode executar uma determinada ação dentro da mesma que pode ser usada de outra parte do projeto ou não, receber informações ou não e também retornar informações ou não da mesma;
 
 4- Defina Herança e de exemplos:
-Herança é a derivação de uma classe mãe para filha no caso outra classe, onde a classe filha vai herdar tudo que contém na classe mãe, com Herança podemos fazer essa reutilização de alguns dados que se repetem em determinadas partes do código. Assim você pode aproveitar as características que são herdadas a partir da classe mãe https://github.com/alexjuniorkuss/Trabalho-Individual-Alex.git na imagem acima mostra a classe mãe de onde vai ser herdado o dado id image na imagem acima tem uma classe de cliente onde vai utilizar o id da classe mãe para isso ao lado do nome da class coloca : Models para herdar o dado da classe mãe image Na imagem acima na tela principal do programa eu crio um obj do cliente e quando eu vou chama-lo no item 2 eu ja posso ter todos os dados tanto id de models quanto os dados do cliente como nome, sobrenome e idade.
+Herança é a derivação de uma classe mãe para filha no caso outra classe, onde a classe filha vai herdar tudo que contém na classe mãe, com Herança podemos fazer essa reutilização de alguns dados que se repetem em determinadas partes do código. Assim você pode aproveitar as características que são herdadas a partir da classe mãe ![image](https://user-images.githubusercontent.com/84691695/125998930-c27e3446-cb17-4627-ba23-10cab1b2d03f.png)
+na imagem acima mostra a classe mãe de onde vai ser herdado o dado id image na imagem acima tem uma classe de cliente onde vai utilizar o id da classe mãe para isso ao lado do nome da class coloca : Models para herdar o dado da classe mãe image 
+
+![image](https://user-images.githubusercontent.com/84691695/125998905-e31ce054-a4be-4d7c-a187-ee71c90e0bd3.png)
+
+Na imagem acima na tela principal do programa eu crio um obj do cliente e quando eu vou chama-lo no item 2 eu ja posso ter todos os dados tanto id de models quanto os dados do cliente como nome, sobrenome e idade.
 
 5- Defina Composição e de exemplos:
 Composição é compor um conjunto de dados atribuindo uma obrigatoriedade de outro conjunto, por exemplo Um produto em um cadastro ele vai ter seu ID, NOME, DESCRICAO, VALOR e para compor esse conjunto de informações obrigatoriamente esse produto precisa ter uma Categoria Onde a Categoria é um conjunto de dados a parte. Então na composição você puxa uma uma cópia da categoria que precisa compor este produto para o mesmo pertencer a uma Categoria.
@@ -27,8 +32,7 @@ Dentro do projeto podemos ter exemplos que utilizem parâmetros e argumentos por
   -Parâmetro: Recebe o argumento enviado.
 7- O que é uma Sobrecarga de método:
 -Sobrecarga de método é quando você usa o mesmo método porem com parâmetros diferentes onde na chamada o que pode diferenciar é o argumento mandado Na imagem abaixo quando chamo soma(); sem argumento ele chama o método de soma sem parâmetros e executaria as instruções que daria pra mesma ali, ja no caso se eu passar um argumento ao chamar a soma(5); eu já chamo o 2 método soma o que contém um parâmetro e também executaria os dados que estariam dentro dele.
-
-image
+![image](https://user-images.githubusercontent.com/84691695/125998993-0db7553b-e928-4820-a39c-afeca30593e4.png)
 
 8- Parâmetros Opcionais:
 O Parâmetro opcional contém alguns dados que podem ser padrões caso o usuário não passe nenhum argumento, caso o usuário passar algum dado para ele substitui, caso não passar nada fica o parâmetro definido como padrão.
