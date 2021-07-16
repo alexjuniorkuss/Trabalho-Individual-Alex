@@ -33,6 +33,17 @@ Crie um texto em formato de artigo abordando os seguintes Itens:
       tenho uma tela de cadastro onde peço para o usuario digitar um dado e eu quero mandar esse dado para um método de validação, então eu mando um ARGUMENTO para meu método         validar dentro do metodo validacao eu vou passar um parametro para retorno do tratamento da validação. Os dois precisam ser do mesmo tipo de dados ou eu defino no               argumento quais parametros vao receber cada dado podendo ser por ordem logica  ou por referencia do parametro  
       -Argumento: Envia uma string, int ou outro tipo de dado para meu parametro
       -Parametro: Recebe  o argumento enviado.
+      
+   7- O que é uma Sobrecarga de método
+      Sobrecarda de método é quando voce usa o mesmo método porem com parametros diferentes onde na chamada o que pode diferenciar é o argumento mandado
+      na imagem abaico quando chamo soma(); sem argumento ele chama o metodo de soma sem parametros e executaria as instrucoes que daria pra mesma ali, ja no caso se eu passar         um argumento ao chamar a soma(5); eu ja chamo o 2 metodo soma o que contem um parametro e tambem executaria os dados que estariam dentro dele.
+      ![image](https://user-images.githubusercontent.com/84691695/125988239-9539a23e-e822-46ca-a56e-9a6c742482fb.png)
+      
+   8- Parametros Opcionais
+      Os Parametros opcionais contém alguns dados que podem ser padrôes caso o usuario não passe nenhum argumento, caso o usuario passar algum dado para ele ele substitui, caso       não passar nada fica o parametro definido como padrão.
+      
+   9- Parametros Nomeados
+      Os Parametros nomeados ao passar os argumetos para o metodo nomeando as variaveis la do parametro orientando por forma sequencial ou não o que cada campo vai receber, os         parametros opcionais devem ficar por ultimo as que forem ser passados argumentos nomea e passa e as que não vao ser passados deixa por ultimo e em ordem.
                   
  
   
