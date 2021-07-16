@@ -1,5 +1,5 @@
 # Trabalho-Individual-Alex
-Trabalho Individual<Br>  
+ 
 Alex sobre Teoria e Prática<Br>
 Havan Labs 2021<Br>
 
