@@ -2,20 +2,20 @@
 Trabalho Individual - 
 Alex sobre Teoria e Prática
 
-Trabalho Individual 1 -Teoria <Br>
-Crie um texto em formato de artigo abordando os seguintes Itens:
+Trabalho Individual 1 -Teoria<Br>
+Crie um texto em formato de artigo abordando os seguintes Itens:<Br>
   1-  Definição POO
-      - A Definição de Programação Orientada a Objetos (POO) é um tipo de programação onde uma ou várias Classes tem características que fazem elas serem um objeto, cada uma delas define a maneira de agir do objeto escolhido, podendo eles terem atributos, você pode interagir diretamente com o Objeto, ele pode ter métodos, atributos entre outros 
+  A Definição de Programação Orientada a Objetos (POO) é um tipo de programação onde uma ou várias Classes tem características que fazem elas serem um objeto, cada uma delas define a maneira de agir do objeto escolhido, podendo eles terem atributos, você pode interagir diretamente com o Objeto, ele pode ter métodos, atributos entre outros 
       
   2-  Definição Classes:<Br>
-      - É nela que pode conter um Conjunto de Métodos que podem ser eles similares para determinadas funções como uma classe Mensagem onde dentro dela podem ter vários métodos    para cada tipo específico de mensagem que o programa quer exibir depois podendo executar dentro da classe só o método que melhor encaixar em outra área do programa. Ela pode    guardar atributos ou comportamentos
+  É nela que pode conter um Conjunto de Métodos que podem ser eles similares para determinadas funções como uma classe Mensagem onde dentro dela podem ter vários métodos    para cada tipo específico de mensagem que o programa quer exibir depois podendo executar dentro da classe só o método que melhor encaixar em outra área do programa. Ela pode    guardar atributos ou comportamentos
       
      
   3-  Definição de Método:<Br>
-      - Método é uma função onde você pode executar uma determinada ação dentro da mesma que pode ser usada de outra parte do projeto ou não, receber informações ou não e também   retornar informações ou não da mesma;
+  Método é uma função onde você pode executar uma determinada ação dentro da mesma que pode ser usada de outra parte do projeto ou não, receber informações ou não e também   retornar informações ou não da mesma;
       
   4-  Defina Herança e de exemplos:<Br>
-      - Herança é a derivação de uma classe mãe para filha no caso outra classe, onde a classe filha vai herdar tudo que contém na classe mãe, com Herança podemos fazer essa       reutilização de alguns dados que se repetem em determinadas partes do código. Assim você pode aproveitar as características que são herdadas a partir da classe mãe
+  Herança é a derivação de uma classe mãe para filha no caso outra classe, onde a classe filha vai herdar tudo que contém na classe mãe, com Herança podemos fazer essa       reutilização de alguns dados que se repetem em determinadas partes do código. Assim você pode aproveitar as características que são herdadas a partir da classe mãe
        https://github.com/alexjuniorkuss/Trabalho-Individual-Alex.git
   na imagem acima mostra a classe mãe de onde vai ser herdado o dado id
   ![image](https://user-images.githubusercontent.com/84691695/125984460-38d9a4f1-95b5-4362-add3-f87ebad133e6.png)
@@ -24,7 +24,7 @@ Crie um texto em formato de artigo abordando os seguintes Itens:
     Na imagem acima na tela principal do programa eu crio um obj do cliente e quando eu vou chama-lo no item 2 eu ja posso ter todos os dados tanto id de models quanto os dados do   cliente como nome, sobrenome e idade.
     
   5-  Defina Composição e de exemplos:<Br>
-      -Composição é compor um conjunto de dados atribuindo uma obrigatoriedade de outro conjunto, por exemplo
+  Composição é compor um conjunto de dados atribuindo uma obrigatoriedade de outro conjunto, por exemplo
       Um produto em um cadastro ele vai ter seu ID, NOME, DESCRICAO, VALOR e para compor esse conjunto de informações obrigatoriamente esse produto precisa ter uma Categoria
       Onde a Categoria é um conjunto de dados a parte. Então na composição você puxa uma uma cópia da categoria que precisa compor este produto para o mesmo pertencer a uma           Categoria.
   
