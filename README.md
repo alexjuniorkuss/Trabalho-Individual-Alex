@@ -15,6 +15,7 @@ Crie um texto em formato de artigo abordando os seguintes Itens:
       - Método é uma função onde voce pode executar uma determinada ação dentro da mesma que pode ser usada de outra parte do projeto ou não, receber informações ou não e também restorar informações ou não da mesma;
       
   4-  Defina Herança e de exemplos
-      - Herança é a derivação de uma classe mãe para filha no caso outra classe, com Herança podemos fazer essa reutilização de alguns dados que se repetem em determinadas partes do código
+      - Herança é a derivação de uma classe mãe para filha no caso outra classe, onde a classe filha vai herdar tudo que contém na classe mãe, com Herança podemos fazer essa reutilização de alguns dados que se repetem em determinadas partes do código. Assim você pode aproveitar as caracteristicas que são herdadas a partir da classe mãe
+      
   5-  Defina Composição e de exemplos
   6-  O que é Parametro e qual a diferença para Argumentos
