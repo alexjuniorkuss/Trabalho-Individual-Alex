@@ -1,7 +1,7 @@
 # Trabalho-Individual-Alex
-Trabalho Individual - 
-Alex sobre Teoria e Prática
-Havan Labs 2021
+Trabalho Individual<Br>  
+Alex sobre Teoria e Prática<Br>
+Havan Labs 2021<Br>
 
 Trabalho Individual 1 -Teoria<Br>
 Crie um texto em formato de artigo abordando os seguintes Itens:<Br>
