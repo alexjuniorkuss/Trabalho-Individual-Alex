@@ -30,7 +30,7 @@ Crie um texto em formato de artigo abordando os seguintes Itens:<Br>
   
   6-  O que é Parâmetro e qual a diferença para Argumentos:<Br>
             Dentro do projeto podemos ter exemplos que utilizem parâmetros e argumentos por exemplo
-      Tenho uma tela de cadastro onde peço para o usuário digitar um dado e eu quero mandar esse dado para um método de validação, então eu mando um ARGUMENTO para meu método         validar dentro do método validação eu vou passar um parâmetro para retorno do tratamento da validação. Os dois precisam ser do mesmo tipo de dados ou eu defino no               argumento quais parâmetros vão receber cada dado podendo ser por ordem lógica ou por referência do parâmetro  
+      Tenho uma tela de cadastro onde peço para o usuário digitar um dado e eu quero mandar esse dado para um método de validação, então eu mando um ARGUMENTO para meu método         validar dentro do método validação eu vou passar um parâmetro para retorno do tratamento da validação. Os dois precisam ser do mesmo tipo de dados ou eu defino no               argumento quais parâmetros vão receber cada dado podendo ser por ordem lógica ou por referência do parâmetro<Br>  
       -Argumento: Envia uma string, int ou outro tipo de dado para meu parâmetro
       -Parâmetro: Recebe o argumento enviado.
       
